@@ -11,7 +11,7 @@
 
 ## Projetos:
 
-* **Projeto exemplo:** https://bit.ly/2XUYvrZ
+* **Projeto exemplo:** https://bit.ly/2YBdu9G
 
 ---
 
