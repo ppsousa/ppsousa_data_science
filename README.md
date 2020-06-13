@@ -4,14 +4,10 @@
 </p>
 
 # Paulo Pereira de Sousa
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
-**Links:**
-* 
 
 ## Projetos:
 
